@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Title with primary keywords -->
-  <title>SURF TRIP MAROC / Travel Surf Morocco / Premier Surf Camp & Travel Camp Maroc</title>
+  <title>SURF TRIP MAROC | Travel Surf Morocco | Premier Surf Camp & Travel Camp Maroc</title>
   <!-- Meta Description including keywords -->
   <meta name="description" content="Join our premier Surf Camp in Imsouane, Morocco for an unforgettable SURF TRIP MAROC experience. We offer the best surf lessons and travel packages for an ultimate travel surf Morocco adventure at our Surf & Travel Camp Maroc.">
   <!-- Meta Keywords (use sparingly as many search engines favor contextual usage) -->
