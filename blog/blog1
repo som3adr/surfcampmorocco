@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Surfing blog featuring the best surf spots, surf schools, and surf guides in Morocco and Imsouane.">
+    <meta name="keywords" content="Imsouane surf, surfing in Imsouane, best surf spots in Morocco, surf lessons in Morocco, and more">
+    <meta name="author" content="Your Name">
+    <title>Morocco Surf Blog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Morocco Surf Blog</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#blogs">Blogs</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About This Blog</h2>
+            <p>Welcome to the Morocco Surf Blog! Discover the best surf spots, guides, and tips for surfing in Morocco, with a special focus on Imsouane.</p>
+        </section>
+        <section id="blogs">
+            <h2>Blog Entries</h2>
+            <div class="blog-entry" id="blog-1">
+                <h3>Imsouane Surf: Why It's a Must for Any Morocco Surf Trip</h3>
+                <p>Imsouane, a small fishing village, boasts some of the best surf spots in Morocco. Known for the longest wave in the country, Imsouane surf conditions cater to both beginners and advanced surfers. Whether you’re interested in Imsouane surf lessons or just renting a board, this surf destination has you covered. Surfing in Imsouane also offers a unique Moroccan surf culture experience, with surf-and-yoga retreats and eco-friendly surf travel options.</p>
+                <p>Popular spots include the Imsouane bay surf, Cathedral Point surf, and beach breaks perfect for beginners.</p>
+            </div>
+            <div class="blog-entry" id="blog-2">
+                <h3>Best Time to Surf in Morocco: Imsouane Surfing Season Explained</h3>
+                <p>Morocco's surfing season peaks during autumn and winter, with consistent waves and perfect swell conditions. Surfing Imsouane during these months guarantees excellent rides. Check the Imsouane wave forecast to plan your trip, and explore surf packages Morocco offers to make the most of your Morocco surf trip.</p>
+                <p>Don't forget to visit surf shops in Imsouane for gear and connect with surf schools in Morocco to enhance your skills.</p>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Have questions about surfing in Morocco or Imsouane? Reach out to us at <a href="mailto:info@moroccosurfblog.com">info@moroccosurfblog.com</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Morocco Surf Blog. All rights reserved.</p>
+    </footer>
+</body>
+</html>
